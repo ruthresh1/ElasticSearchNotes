@@ -11,3 +11,7 @@ Table of differences between ElasticSearch, SQL and Mongodb
 | Mapping/Type | Table | Collection | 
 | Field | Column | Field |
 | Object (JSON object) | Record (tuples) | Record (BSON object) |
+
+## Elastic Search communication methods
+* REST calls
+* Native method
