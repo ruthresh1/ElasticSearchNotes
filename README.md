@@ -15,3 +15,6 @@ Table of differences between ElasticSearch, SQL and Mongodb
 ## Elastic Search communication methods
 * REST calls
 * Native method
+
+## Download Elastic Search from
+https://www.elastic.co/downloads/elasticsearch
