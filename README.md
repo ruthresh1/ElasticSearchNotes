@@ -18,3 +18,15 @@ Table of differences between ElasticSearch, SQL and Mongodb
 
 ## Download Elastic Search from
 https://www.elastic.co/downloads/elasticsearch
+
+## File structure and contents of installed Elastic search
+* bin
+  * files to start and manage elastic search service
+  * elasticsearch, plugin
+* config
+  * related to configuration and setup
+  * elasticsearch.yml, log4j2.properties
+* lib
+  * libraries needed to run elasticsearch
+* modules
+* plugins
