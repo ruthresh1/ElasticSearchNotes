@@ -30,3 +30,10 @@ https://www.elastic.co/downloads/elasticsearch
   * libraries needed to run elasticsearch
 * modules
 * plugins
+
+## Types of nodes in a cluster
+* master
+* injest
+* client (load balancer)
+* data node
+
