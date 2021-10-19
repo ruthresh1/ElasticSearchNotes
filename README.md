@@ -37,3 +37,9 @@ https://www.elastic.co/downloads/elasticsearch
 * client (load balancer)
 * data node
 
+
+## Books on ElasticSearch
+* Advanced Elasticsearch 7.0
+* Learning Elasticsearch
+* Elasticsearch: Definitive Guide
+* Mastering Elasticsearch
