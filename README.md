@@ -2,6 +2,7 @@
 Notes on the ELK stack
 
 Elastic search is a service part of the ELK stack (ElasticSearch, Logstash, Kibana)
+Elastic search is a serarch engine, primarily used for searching contents from a data store, aggregating logs, for analytics and processing data for insights. So if you are in a product website and searching for a particular product or its feature, elastic search powers this search to give you expected relevant results, along with auto-completing the search key quickly. It lets you index, search and manage your data.
 
 Table of differences between ElasticSearch, SQL and Mongodb
 
