@@ -38,8 +38,14 @@ https://www.elastic.co/downloads/elasticsearch
 * client (load balancer)
 * data node
 
+## Different use-cases 
+* as primary backend for the site
+* adding it to an existing system
+* as ready-made solution built around it
+
 
 ## Books on ElasticSearch
+* ElasticSearch in action
 * Advanced Elasticsearch 7.0
 * Learning Elasticsearch
 * Elasticsearch: Definitive Guide
