@@ -43,6 +43,13 @@ https://www.elastic.co/downloads/elasticsearch
 * adding it to an existing system
 * as ready-made solution built around it
 
+## Features
+* indexing and searching data (obviously)
+* search through rest API, query using filters
+* caching 
+* real-time analytics using aggregations
+* organizing data
+* clustered elastic servers
 
 ## Books on ElasticSearch
 * ElasticSearch in action
