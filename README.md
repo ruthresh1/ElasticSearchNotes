@@ -19,6 +19,12 @@ Table of differences between ElasticSearch, SQL and Mongodb
 
 ## Download Elastic Search from
 https://www.elastic.co/downloads/elasticsearch
+Download the latest or required version, unzip and run
+```bash
+% tar zxf elasticsearch-*.tar.gz
+% cd elasticsearch-*
+% bin/elasticsearch
+```
 
 ## File structure and contents of installed Elastic search
 * bin
