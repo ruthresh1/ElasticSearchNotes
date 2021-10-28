@@ -14,8 +14,8 @@ Table of differences between ElasticSearch, SQL and Mongodb
 | Object (JSON object) | Record (tuples) | Record (BSON object) |
 
 ## Elastic Search communication methods
-* REST calls
-* Native method
+* REST calls (port 9200)
+* Native method (port 9300)
 
 ## Download Elastic Search from
 https://www.elastic.co/downloads/elasticsearch
@@ -50,12 +50,13 @@ Download the latest or required version, unzip and run
 * as ready-made solution built around it
 
 ## Features
-* indexing and searching data (obviously)
+* indexing bulk data and searching data (obviously)
 * search through rest API, query using filters
-* caching 
+* search suggestions, caching 
 * real-time analytics using aggregations
 * organizing data
 * clustered elastic servers
+* document oriented and scalable by default
 
 ## Books on ElasticSearch
 * ElasticSearch in action
