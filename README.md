@@ -13,6 +13,8 @@ Table of differences between ElasticSearch, SQL and Mongodb
 | Field | Column | Field |
 | Object (JSON object) | Record (tuples) | Record (BSON object) |
 
+![IndexingAndSearching](https://user-images.githubusercontent.com/23609177/139458432-f21ebdec-ee4a-497f-b6b9-c86a0334cc1f.png)
+
 ## Elastic Search communication methods
 * REST calls (port 9200)
 * Native method (port 9300)
