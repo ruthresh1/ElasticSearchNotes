@@ -60,6 +60,10 @@ Download the latest or required version, unzip and run
 * clustered elastic servers
 * document oriented and scalable by default
 
+## Data model used 
+ES is a document storage/retreival service
+JSON or JavaScript Object notation is how we usually communicate with it.
+
 ## Books on ElasticSearch
 * ElasticSearch in action
 * Advanced Elasticsearch 7.0
