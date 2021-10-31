@@ -13,12 +13,20 @@ Table of differences between ElasticSearch, SQL and Mongodb
 | Field | Column | Field |
 | Object (JSON object) | Record (tuples) | Record (BSON object) |
 
+![IndexingAndSearching](https://user-images.githubusercontent.com/23609177/139458432-f21ebdec-ee4a-497f-b6b9-c86a0334cc1f.png)
+
 ## Elastic Search communication methods
-* REST calls
-* Native method
+* REST calls (port 9200)
+* Native method (port 9300)
 
 ## Download Elastic Search from
 https://www.elastic.co/downloads/elasticsearch
+Download the latest or required version, unzip and run
+```bash
+% tar zxf elasticsearch-*.tar.gz
+% cd elasticsearch-*
+% bin/elasticsearch
+```
 
 ## File structure and contents of installed Elastic search
 * bin
@@ -43,6 +51,18 @@ https://www.elastic.co/downloads/elasticsearch
 * adding it to an existing system
 * as ready-made solution built around it
 
+## Features
+* indexing bulk data and searching data (obviously)
+* search through rest API, query using filters
+* search suggestions, caching 
+* real-time analytics using aggregations
+* organizing data
+* clustered elastic servers
+* document oriented and scalable by default
+
+## Data model used 
+ES is a document storage/retreival service
+JSON or JavaScript Object notation is how we usually communicate with it.
 
 ## Books on ElasticSearch
 * ElasticSearch in action
