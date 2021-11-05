@@ -64,6 +64,12 @@ Download the latest or required version, unzip and run
 ES is a document storage/retreival service
 JSON or JavaScript Object notation is how we usually communicate with it.
 
+## common terms
+* index
+* shard
+* node
+
+
 ## Books on ElasticSearch
 * ElasticSearch in action
 * Advanced Elasticsearch 7.0
